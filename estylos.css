@@ -1,0 +1,111 @@
+body {
+    background-color: #F3F5FC;
+    font-family: "Open Sans", sans-serif;
+}
+
+.logo{
+    margin:30px 0 0 30px ;
+    display: inline-block;
+}
+
+.cajatodo p {
+    position: absolute;
+    margin: 550px 0 0 1560px;
+    display: inline-block;
+    font-size: 25px;
+    font-weight: bold;
+    color: #0A3871;
+    
+}
+
+.caja {
+    position: absolute;
+    margin: -70px 0 0 1450px;
+    scale: 90%;
+}
+
+.muñeco {
+    position: absolute;
+    margin: 200px 0 0 1500px;
+    scale: 90%;
+    
+}
+
+.condiciones {
+    position: absolute;
+    margin: 34.5% 0 0 20%;
+}
+
+.botonEncripta:hover{ 
+    background: #06264d;
+    transform: scale(1.2);
+}
+
+.botonEncripta {
+    position: absolute;
+    margin: 680px 0 0 380px;
+    display: block;
+    border-radius: 20px;
+    background: #0A3871;
+    border: 0px;
+    width: 355px;
+    height: 65px;
+    font-size: 22PX;
+    font-weight: bold;
+    color: #ADB5BD;
+
+}
+
+.botonDesencripta:hover{ 
+    background: #6e7378;
+    transform: scale(1.2);
+}
+
+.botonDesencripta {
+    position: absolute;
+    margin: 680px 0 0 790px;
+    display: block;
+    border-radius: 20px;
+    background: #cad3db;
+    width: 355px;
+    height: 65px;
+    border-color: #0A3871;
+    font-size: 22PX;
+    font-weight: bold;
+    color: #0A3871;
+    
+}
+
+#encriptarimput{
+    position: absolute;
+    margin: 50px 0 0 200px;
+    width: 500px;
+    height: 70px;
+    border: 0px;
+    font-size: 40px;
+    background-color: #F3F5FC;
+    outline: none;
+
+    
+}
+
+.credito{
+    display: block;
+    position: absolute;
+    margin:880px 0 0 35% ;
+    font-size: 30px;
+    font-weight: bold;
+    color: #ADB5BD;
+    
+}
+
+
+
+.fondoP {
+    display: block;
+    position: absolute;
+    margin:850px 0 0 0 ;
+    height: 10%;
+    width: 100%;
+    
+}
